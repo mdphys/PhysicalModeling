@@ -7,4 +7,4 @@ Here is a list of useful links.
   - Resonance in Music: https://www.youtube.com/watch?v=Q3oItpVa9fs
   - Aliasing!! : https://www.youtube.com/watch?v=uENITui5_jU
  
-  - 
+
