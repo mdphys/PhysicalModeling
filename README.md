@@ -1,6 +1,6 @@
 # Physical Modeling Sound Synthesis
 
-*Repo containing the lecture material and source code for the physical modelling course offered in the PhD programme in Mathematics at the University of Bologna*
+*Repo containing the lecture material and source code for the physical modelling course offered in the PhD programme in Mathematics at the University of Bologna, Feb - June 2025*
 
 All recordings are linked from the `rec` subfolder. Links should be accessible to anyone with a UniBO email account
 
