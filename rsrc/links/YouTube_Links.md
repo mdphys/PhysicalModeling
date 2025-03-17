@@ -5,6 +5,6 @@ Here is a list of useful links.
   - Resonance in Strings: https://www.youtube.com/watch?v=YDaOuO1aCu8
   - Resonance in Plates: https://www.youtube.com/watch?v=wvJAgrUBF4w
   - Resonance in Music: https://www.youtube.com/watch?v=Q3oItpVa9fs
-  - Aliasing!! : https://www.youtube.com/watch?v=uENITui5_jU
+  - Aliasing!! : https://www.youtube.com/watch?v=uENITui5_jU (water cannot flow upwards ... the frame rate of the recording is just too low to capture the "correct" vibration)
  
 
